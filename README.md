@@ -1,5 +1,3 @@
-[![Social banner for tinezmatias]()](https://mmartinez.dev)
-
 <p align="center">
   <!-- https://redketchup.io/gif-converter -->
   <img
@@ -9,11 +7,11 @@
 
 <h3 align="center">Contact</h3>
 <p align="center">
-  <a target="_blank" href="https://tinezmati.dev">
+  <!-- <a target="_blank" href="https://tinezmati.dev">
     <img
       src="https://img.shields.io/badge/vittoretrivi.dev-%23ffffff.svg?&style=for-the-badge"
     />
-  </a>
+  </a> -->
 </p>
 
 ---
