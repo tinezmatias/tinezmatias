@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Social banner for tinezmatias](https://github.com/tinezmatias/tinezmatias/raw/main/assets/banner_2.png)](https://mmartinez.dev)
+
 <!--
 **tinezmatias/tinezmatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
