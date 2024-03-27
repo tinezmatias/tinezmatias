@@ -173,6 +173,9 @@
   <img
     src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
   />
+</p>
+
+<p align="center">
   <!-- Planetscale -->
   <img
     src="https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white"
@@ -200,6 +203,9 @@
   <img
     src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"
   />
+</p>
+
+<p align="center">
   <!-- Google Cloud -->
   <img
     src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"
